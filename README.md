@@ -24,8 +24,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Website Link](https://akshdesai1.github.io/QR-code-component-Frontend-Challenge/)
 
 ## My process
 
@@ -68,6 +67,4 @@ In Future, I want to learn about CSS Grid and try to be master in Css Flex-box C
 
 
 ## Author
-
-- Website - [Add your name here](https://www.your-site.com)
 - Frontend Mentor - [@AKSHDESAI1](https://www.frontendmentor.io/profile/AKSHDESAI1)
