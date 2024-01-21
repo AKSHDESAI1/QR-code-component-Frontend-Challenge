@@ -33,7 +33,7 @@ body {
 }
 
 .image {
-  background-image: url("/images/image-qr-code.png");
+  background-image: url("https://akshdesai1.github.io/QR-code-component-Frontend-Challenge/images/image-qr-code.png");
   height: 55%;
   background-size: cover;
   border-radius: 10px;
